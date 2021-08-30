@@ -1,0 +1,842 @@
+Transfers vested tokens to beneficiary . 
+Allows the owner to revoke the vesting . 
+Update a token implementation contract to purchase 
+Returns boolean ( ) false ) 
+Returns boolean ( ) false ) 
+Executes a loan and returns the subset of parcel to their bid 
+Updates merkle decimals and changes the token implementation contract 
+Fetches current rate ( how many tokens you get for a regular address 
+Closes crowdsale , finishes minting ( allowing token transfers ) , transfers token ownership to the owner 
+Issues a specified account to recipient account of a given currency 
+Withdraws a specified amount of tokens of a given currency 
+Transfer tokens to account 
+Set allowance for other address and notify 
+Used to launch the Module with the help of factory 
+Type of the Module factory 
+Get the name of the Module 
+Get the description of the Module 
+Get the title of the Module 
+Returns the instructions associated with the module 
+Get the tags related to the module factory 
+Batch exection of regularTransfer ( ) function 
+Sell ` amount ` tokens to contract 
+Checks if the makeOrder price is reasonable and not manipulative 
+Checks if the takeOrder price is reasonable and not manipulative 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Get the total token ID 
+Transfers tokens held by timelock to beneficiary . 
+Allow pre-approved user to take ownership of a token 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific token . 
+Allow pre-approved user to take ownership of a token 
+Returns all the relevant information about a specific tokenId . 
+Returns an array of fund addresses and associated arrays of share prices and creation times 
+Transfers tokens held by timelock to beneficiary . 
+Submit currency and receive ICO 
+Transfers tokens held by timelock to beneficiary . 
+Transfer from msg.sender for downloading of content . 
+Returns the state of this contract 
+Transfer all tokens from this contract to their own address 
+Transfer all tokens from this contract to their Vault address 
+Distribute tokens to winner 
+Create tokens when funding is active . 
+Sets a new airdrop list to be used in the investors 
+Gets state 
+Get merkle orders to an upgrade 
+Create tokens when funding is active . 
+Create tokens when funding is active . 
+Updates a presigned withdraw tokens to the ratio of this contract 
+Returns asset for token with yes 
+Updates merkle decimals and returns the token implementation . 
+Updates merkle orders in a batch , non-empty the actual cost 
+Updates merkle orders and changes a delegate 
+Gets merkle orders and returns the remaining tokens 
+Changes merkle card and returns the token share 
+Changes merkle buyout price for a token holders 
+Returns the total number of tokens 
+Gets merkle card and returns the token details 
+Changes merkle buyout price for a token holders 
+Updates merkle orders to the ICO 
+Gets the maximum number of tokens owned by a given address 
+Gets the boolean ( ) tokens are assigned to the owner 
+Create tokens when funding is active . 
+Changes merkle buyout price for a token holders 
+Gets a list of locked and receive melon tokens 
+Returns all available inventory of a contract 
+Gets a presigned number of tokens to winner 
+Updates merkle decimals and changes the Sale wallet 
+Returns all available inventory of a contract 
+Gets a presigned number of tokens to winner 
+Gets the balance of the specified address 
+Gets the address of a given Cutie . 
+Approves another address to claim for the ownership of a given token ID 
+Gets the approved address to take ownership of a given token ID 
+Enable or disable approval for a third party ( `` operator '' ) to manage all of ` msg.sender ` 's assets 
+Tells whether an operator is approved by a given owner 
+Helps in trasnferring assets 
+Transfers the tokens from one address to another address 
+Returns the total supply of tokens . 
+Refund ticker details 
+Enumerate NFTs assigned to an owner 
+A descriptive name for a collection of NFTs in this contract 
+An abbreviated name for NFTs in this contract 
+A distinct Uniform Resource Identifier ( URI ) for a given asset . 
+Low level function used to withdraw tokens and creating the token with his address 
+The request to totalVestedAccountBalance : Handle the balance 
+Gets current approval of the _tokenId ` owned by a specific token ID 
+Gets all info for a SecurityToken to check on a single address 
+Helps in trasnferring assets 
+Handle the receipt of an NFT 
+This is used to add new wallet address 
+Updates merkle decimals and changes the token implementation contract 
+Allow the owner of the token change the price , can be called by setting the token price . 
+Enables token holders to withdraw their tokens freely if needed . 
+Updates merkle decimals and changes the token 
+Allow the owner of the token change the price of the person . 
+Insert a new sale of the auction . 
+Gets state 
+Returns the total number of tokens 
+Cancel a sale auction and locks its sale for a given token . 
+Calculates merkle proof of an asset 
+Withdraw tokens in a bid and receive them if one sale is not found . 
+Call this purchase for every ratio 
+Returns the hash of the contract . 
+Returns the total number of tokens 
+Gets merkle orders that a given asset 
+Handle the receipt of an auction 
+Gets all inventory of a user 
+Refund token with yes 
+Adds the specified address to the list of administrators . 
+Adds multiple addresses to the administrator list . 
+Removes the specified address from the list of administrators . 
+Removes multiple addresses to the administrator list . 
+Checks if an address is an administrator . 
+Enables token holders to transfer their tokens freely if true after the crowdsale is not verified 
+This function disables token transfers for everyone . 
+Allows only the admins and/or whitelisted applications to perform bulk transfer operation . 
+Transfer all Ether held by the contract to the owner . 
+ERC20 backwards compatible transfer . 
+Transfers tokens from a specified wallet address . 
+Approves a wallet address to spend on behalf of the sender . 
+Increases the approval of the spender . 
+Decreases the approval of the spender . 
+Remove an ODEM claim . 
+This function enables the whitelisted application ( internal application ) to set the ICO end date and can only be used once . 
+Mints the tokens only once against the supplied key ( category ) . 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) 
+Get the game 's data to the current trade . 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific game . 
+Allow pre-approved user to take ownership of a token 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Gets merkle orders and returns the Sale mechanism 
+Gets merkle proof of tokens 
+Allows users to set their balances after the sale is reached . 
+Allow pre-approved user to take ownership of a token 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+Buy tokens on the remaining count of resources 
+contribution handler 
+check status 
+closure handler 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+receive funds 
+Sell ` amount ` tokens to contract 
+Internal - remove max values of fund shares or fund . 
+Gets merkle Tokens received and transfer 
+Internal function that changes a module balance and records . 
+Transfers BBK from the contract to an account . 
+Transfers BBK from the contract to an account . 
+Checks whether the passed address is reasonable and reverts if the variable data . 
+Register a new ERC20 token 
+Open the Registry so that anyone can register . 
+Updates merkle counter and transfer the amount of this contract 
+Deposit ` _token ` to the vault 
+Updates merkle counter and transfer the amount of this contract 
+Updates merkle decimals and changes the channel 
+Returns asset decimals of a particular state 
+Function to indicate the end of the ICO . 
+Shuts a CDP and transfers in the storage . 
+enables locked tokens transfers in accounts 
+Gets merkle leaf based on the current contract ID to all active state 
+Returns asset decimals of a particular state 
+Returns asset decimals of a particular state 
+This function returns whether or not the STO is in fundraising mode ( open ) 
+maximum investments to be accepted during the sale ( in euro-cents ) 
+minimum amount of funding to consider the sale as successful ( in euro-cents ) 
+Initialize an address 
+Send ` _amount ` of tokens to address ` _to ` passing ` _userData ` to the recipient 
+Authorize a third party ` _operator ` to manage ( send ) ` msg.sender ` 's tokens . 
+ERC20 backwards compatible approve . 
+Revoke a third party ` _operator ` 's rights to manage ( send ) ` msg.sender ` 's tokens . 
+Send ` _amount ` of tokens on behalf of the address ` from ` to the address ` to ` . 
+Generates ` _amount ` tokens to be assigned to ` _tokenHolder ` Sample mint function to showcase the use of the ` Minted ` event and the logic to notify the recipient . 
+Helper function actually performing the burning of tokens . 
+ERC20 backwards compatible transfer . 
+ERC20 backwards compatible transferFrom . 
+ERC20 backwards compatible approve . 
+Internal function that ensures ` _amount ` is multiple of the granularity 
+Helper function actually performing the sending of tokens . 
+Helper function that checks for ERC777TokensRecipient on the recipient and calls it . 
+Helper function that checks for ERC777TokensSender on the sender and calls it . 
+Helper function that checks for ERC777TokensSender on the sender and calls it . 
+Burns ` _amount ` tokens to ` _to ` from ` msg.sender ` 
+Change the details of an orderID . 
+Transfers tokens held by timelock to beneficiary . 
+Restart sale in case of an emergency stop 
+The main function to withdraw tokens and changes the end time 
+Transfers tokens held by timelock to beneficiary . 
+A function to add a token details 
+Transfers vested tokens to beneficiary . 
+contribution handler 
+contribution handler 
+A function to withdraw tokens and track finalize time . 
+check status 
+Function for closure handle 
+Function to receive eth 
+This is public rather than external so it can be called by derived contracts . 
+Grant another address the right to transfer a specific Fighter via transferFrom ( ) . 
+Returns all the relevant information about a specific masterpiece . 
+Allow pre-approved user to take ownership of a token 
+Send ` _amount ` tokens to ` _to ` from ` msg.sender ` 
+send ` _value ` token to ` _to ` 
+Mints and transfers tokens to beneficiary . 
+Request a mortgage with a loan id 
+Handle the receipt of an NFT 
+withdraw accumulated balance , called by payee in case crowdsale has failed 
+Method for destroying the contract 
+Finalize eth which allows token 
+pause , ERC223 functions 
+returns the rate of a contract 
+Finalize eth that is used for token address 
+returns a new wallet address 
+Changes campaign owner 
+Changes campaign owner 
+Gets the total token number of coins 
+Updates merkle decimals and changes the token 
+Adds a campaign info to the remaining budget 
+Updates merkle decimals and changes the token implementation . 
+Function to handle eth transfers 
+returns the total Supply of tokens 
+returns '_value ' in wei to the ratio oracle 
+This function allows some SHP to calculate EUR-T 
+Returns the total number of tokens 
+returns the final bond to a wrapper , which value 
+Transfers tokens held by timelock to block number of EUR-T . 
+How much time Sells tokens transferred to this contract itself or to zero address . 
+Transfers ` _value ` of tokens from address ` _from ` to address ` _to ` . 
+Update merkle orders , including the challenge and some accounting period 
+Update merkle counter , destroy trading 
+Determines if proposal has passed 
+Return the boolean ( ) false 
+Returns the total number of tokens 
+returns the final bond amount of a parcel to 0 , if it is the msg.sender 
+returns the final bond amount of a parcel to 0 , if it is not possible to get the original found . 
+Returns the total number of tokens 
+returns the final bond to a wrapper , which value 
+Returns the total number of tokens 
+returns the final bond amount of a parcel to 0 , if it is not possible to get the original found . 
+Returns the total number of tokens 
+returns the final bond amount of someone to 0 , if there is getting the appropriate permissions 
+returns the total amount of tokens to a product id , return the msg.sender is getting the associated . 
+Return merkle proof of an Estate to a user 
+Return merkle decimals and changes the channel 
+returns the final bond amount of a parcel to 0 , if it is the msg.sender 
+Returns the total number of tokens 
+Updates merkle decimals and changes the token back to the vault 
+Returns all the relevant information about a specific token 
+retrieves price of an asset 
+Create a new request . 
+Update a oracle to pay without added to release . 
+Helps a wallet to release a failed 
+Updates merkle decimals and changes the token implementation . 
+Updates merkle decimals and changes the token implementation . 
+Gets merkle orders and transfer 
+Cancel min contribution to purchase oracle 
+enables a wallet address to release a period 's terms and assigns them to the user 's account 
+This function that we want to change the details 
+This function is used by making a deposit in wei 
+get all bonus 
+Submit a presigned withdraw tokens 
+Submit a presigned purchase 
+get amount of items in mapping 
+Gets merkle orders that is not alter the token sale 
+The redemption function 
+Gets merkle orders , return the remaining tokens to the current date 
+send ` _value ` token to ` _to ` from ` msg.sender ` 
+Send ` _value ` tokens to ` _to ` in behalf of ` _from ` 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+` freeze ? 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+transfers from the token 
+Transfer _value tokens from token pool for a given address 
+Checks whether investment is permitted for a participant 
+Send ` value ` of ether to address ` to ` 
+Updates a Delegate info to the plugin token number of destinations 
+Calculates merkle proof of country a byte32 wallet which corresponds to the investor 
+Updates merkle decimals and changes the Sale wallet 
+Updates merkle decimals and changes the token 
+returns a boolean representing the terms of an asset 's endpoint who can be returned to the ignored . 
+Sets a vote if a message sender has been updated for a trader address each ` . 
+Returns all the relevant information about a specific person . 
+Constructor of the contract 
+Sell tokens and receive ether from contract 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Buy tokens from contract by sending ether 
+Sell ` amount ` tokens to contract 
+Returns all the relevant information about a specific mobster . 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific masterpiece . 
+Allow pre-approved user to take ownership of a token 
+returns a list of matched orders to the given orderID . 
+returns the trader of the given orderID . 
+returns status of the given orderID . 
+returns the darknode address which confirms the given orderID . 
+Allows the owner to register and the details for a token . 
+Sets a token as being deregistered . 
+Transfer a token value from one trader to another , transferring a fee to the RewardVault . 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+Buy tokens from contract by sending ether 
+Sell ` amount ` tokens to contract 
+marks Token registered 
+Distributes the presale tokens . 
+Distributes the ICO tokens . 
+Buy tokens from contract by sending ether 
+Sell ` amount ` tokens to contract 
+Withdraw an affiliate without register 
+Puts new wallet 
+Sets a new wallet and return the currentPrice for each token 
+Set the associated havven escrow contract . 
+Fetches merkle card and transfer 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Finalize crowdfunding 
+Gets merkle orders , and returns the remaining handler 
+Function to send tokens and track the crowdsale contract 
+Changes the total number of tokens 
+Changes the total number of tokens 
+Withdraw the amount of tokens from msg.sender to the contract 
+Transfers ` amount ` from all the contract to verify the current amount . 
+Transfers ` amount ` from msg.sender to ` destination ` 
+Transfers ` _value ` tokens from ` _from ` to ` _to ` 
+Get the balance of an _owner address . 
+Assign allowance _value to _spender address to use the msg.sender balance 
+Get the allowance of an specified address to use another address balance . 
+Remove ` _value ` tokens from the system irreversibly 
+Destroy tokens from other account 
+Will selfdestruct the contract 
+send ` _value ` token to ` _to ` from ` _from ` on the condition it is approved by ` _from ` 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific athlete . 
+Allow pre-approved user to take ownership of a token 
+Vote for a token with yes 
+Buy tokens from contract by sending ether 
+Remove all BBK from the contract , reverts if they have an exchange . 
+Changes ICO implementation contract and changes the referral bonuses 
+The main function to withdraw tokens and changes the end time 
+Changes merkle card and returns the token share 
+Changes merkle decimals and changes the token 
+Calculates boolean if all possible participations within pre-sale contract balance 
+Returns boolean if a new tokens is not able to upgrade 
+Sets a new wallet and return the funds 
+Sets a new airdrop avaliable to this contract 
+Sets the self-destruction delay has been reached 
+Sets a token implementation contract 
+Changes merkle card and returns the token implementation contract 
+Sets merkle counter , only external partner 
+Update merkle Tokens to specified address . 
+send ` _value ` token to ` _to ` from ` msg.sender ` 
+send ` _value ` token to ` _to ` from ` _from ` on the condition it is approved by ` _from ` 
+Allows ` _spender ` to spend no more than ` _value ` tokens in your behalf 
+` freeze ? 
+The main function to withdraw their investment and their airdrop 
+The main function to withdraw their assets 
+Gets merkle card and receive funds 
+Gets the amount of weis needed to be purchase 
+Gets merkle orders and returns the Sale mechanism 
+Gets merkle orders , track of the crowdsale network 
+If the contract has been authorized to 0 , thaw 
+Updates merkle orders and returns a token implementation contract 
+Transfer `` _value '' tokens from ` to `` _to '' contract . 
+Allows user to mint if they have the appropriate permissions . 
+If all artists can burn a payment , only let the approve their funds . 
+Initiates a `` send '' operation towards another user . 
+Initiates a transfer operation between address ` _from ` and ` _to ` . 
+user can convert CarbonUSD umbrella token into a whitelisted stablecoin . 
+whitelisted stablecoin from whitelisted stablecoin and whitelisted stablecoin from the CarbonDollar address 
+Mints CarbonUSD for the user . 
+Converts WT0 to CarbonUSD for the user . 
+Performs the lend of the RCN equivalent to the requested amount , and transforms the msg.sender in the new lender . 
+Withdraw ether and delete the htlc swap . 
+Will selfdestruct the contract 
+Transfers tokens held by timelock to beneficiary . 
+returns current state if its asset is finished . 
+Buy tokens from contract by sending ether 
+` freeze ? 
+Allows users to withdraw tokens corresponding to 0 
+Disable renounce ownership 
+Return merkle parity is used to burn tokens and forwards or backwards mapping 
+registers vote if the investor is not compatibility 
+Buy tokens from contract by sending ether 
+Transfers the tokens to address of the system irreversibly 
+This is a state-modifying function that can be called while the contract is paused . 
+Function to create a request as payee . 
+Function to broadcast and accept an offchain signed request ( the broadcaster can also pays and makes additionals ) . 
+Function to declare additionals . 
+Function what sets payer to their own signature 
+Function to create a request as part of the token request in wei . 
+Updates a distributed tokens to an escrow . 
+This function is used to deposit coins and start time 
+Gets a token orders to the secret , reverts if they have the failed 
+This function allows admins to withdraw tokens track start time . 
+Returns the total number of tokens 
+Checks that the user is fully staked 
+Checks that the user is fully staked 
+Checks that the user is fully staked 
+Checks that the user is fully staked 
+Checks that the user is fully staked 
+Updates merkle decimals and changes the token implementation . 
+Public function that allows any user to withdraw tokens 
+Remove a user from this contract address 
+Checks that the user is fully staked 
+Changes the total number of tokens 
+Returns merkle orders to buy and their funds 
+Exchange rate has 18 decimal places 
+Only works after lock expired 
+Only authorized address 
+You 're set the equivalent to sending of the tokens in WEI to the auction 
+Owner : Withdraw Ether 
+In In returns we need to withdraw eth 
+To eliminate tokens and adjust the price of the FEE tokens 
+To send tokens to another user . 
+Transfers tokens held by timelock to beneficiary . 
+Add Certification to a student 
+Validate Certification to a student 
+Internal function to check if a product exists . 
+Validate Content Hash alone of a student 
+Validate Content Hash alone of a student 
+Returns asset decimals of a particular state 
+Validate Content Hash alone of a student 
+use token address ETH_TOKEN_ADDRESS for ether 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Create ` _mintedAmount ` tokens and send it to ` _target ` 
+` _value ` tokens will be sended to ` _to ` 
+from ` _from ` will be sended ` _value ` tokens to ` _to ` 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific token . 
+Allow pre-approved user to take ownership of a token 
+send ` _value ` token to ` _to ` from ` msg.sender ` 
+Destroy tokens from other account 
+Public function to buy tokens 
+Manual transfer for investors who paid from payment cards 
+Assigns a token release point to a beneficiary . 
+Transfers tokens wrongly sent to specified address . 
+Use and override this function with caution . 
+Returns a darknode that the next state . 
+Gets the state of the loan 
+A descriptive name for a collection of deeds managed by this contract 
+An abbreviated name for deeds managed by this contract 
+Returns how many deeds tracked by this contract . 
+Returns a list of all deed identifiers assigned to an address . 
+Returns a deed identifier of the owner at the given index . 
+Returns an ( off-chain ) metadata url for the given deed . 
+Sets the current channel Manager for an RenExTokens address . 
+Sets the current channel balance required to be called . 
+Sets the current channel grant amount on the Campaign . 
+Withdraw the '_value ' in WEI during the competition contract 
+Returns the state of the loan oracle 
+Calculates the game count of the auction stored by the contract . 
+Withdraw ( unowed ) contract balance . 
+Calculates the deed details of the loan oracle 
+Returns the next sale status of the auction and changes the set possible to zero address . 
+Buy tokens from the auction pool by the dividend card . 
+Returns the parameters for the previous function . 
+send ` _value ` token to ` _to ` from ` msg.sender ` 
+send ` _value ` token to ` _to ` from ` _from ` on the condition it is approved by ` _from ` 
+Assign allowance _value to _spender address to use the msg.sender balance 
+Creates new tokens from the referral bonuses 
+Withdraw ether to this contract 
+Inititate/extend multisig unlockTime and/or initiate/refund multisig deposit 
+Withdraw ether and delete the htlc swap . 
+Convert swap from multisig to htlc mode 
+Returns address of oracle currency ( 0x0 for ETH ) 
+Returns symbol of oracle currency ( 0x0 for ETH ) 
+burns all vested tokens minted 
+Changes the price of this token holder 
+Changes merkle counter , only if appears go to owner 
+Buy tokens from contract by sending ether 
+Sell ` amount ` tokens to contract 
+Add an exchangeHandler address to the whitelist 
+Remove an exchangeHandler address from the whitelist 
+Performs the requested portfolio rebalance 
+Iterates through a list of token orders , transfer the SELL orders to this contract & calculates if we have the ether needed 
+proposes all transfers tokens at the sender to winner . 
+Returns address of oracle currency ( 0x0 for ETH ) 
+Returns symbol of oracle currency ( 0x0 for ETH ) 
+burns all vested tokens minted 
+Changes the price of this token holder 
+Changes merkle counter , only if appears go to owner 
+Transfers vested tokens to beneficiary . 
+Transfer ownership to the contract owner 
+Withdraw Ether to owner account 
+Internal function which allows all cuties to their withdrawable from the msg.sender . 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Request a mortgage with a loan id 
+Request a loan and attachs a mortgage request 
+` owner ` can step down and assign some other address to this role 
+Updates the total number of tokens per the contract 
+Changes merkle counter , only if appears go to owner 
+Adds a new airdrop to the smart contract and starts the count down until it is distributed 
+Distirbutes a differen quantity of tokens to all the specified addresses . 
+Distributes a constant quantity of tokens to all the specified addresses . 
+Distirbutes a constant quantity of tokens to all the specified addresses . 
+Distirbutes a constant quantity of tokens to all the specified addresses . 
+Distirbutes a constant quantity of tokens to all the specified addresses . 
+Transfer ownership from ` owner ` to ` newOwner ` 
+Function to allow contractors to withdraw ethers 
+Sets all min tokens sold on winner 
+Function to close the presale logic 
+Updates merkle orders and transfer 
+Low level function used to purchase 
+Updates merkle decimals and changes the channel 
+Gets the Distribute buyout price for a token holders 
+Returns the boolean ( as part ) corresponding to the game 's need . 
+Returns the boolean ( ) corresponding to an address . 
+Gets the MLB player Id from the player depending on the current signature . 
+Gets the MLB player Id from the player attributes 
+Gets the MLB player Id from the player depending on the current signature 
+Gets the MLB player Id from the player attributes 
+Updates merkle decimals and changes the Sale wallet , of the FEE . 
+Sets a new treasury address 
+Returns all unique identifier used by the server does not cost to the end game . 
+Returns the game 's base number of money . 
+Distribute tokens for multiple addresses for Airdrops ( only external ) - Alber Erre 
+Bulk mint tokens ( same amounts ) 
+Finalizes ICO : changes token ownership to founder , allows token transfers 
+Allows owner to vary the future minting after finalization 
+Claim token for contract token for token sale . 
+Finalizes ICO : changes token ownership to founder , allows token transfers 
+Sets a new wallet and return the currentPrice for each token 
+The owner will call this method to extract the tokens 
+fallback function DO NOT OVERRIDE 
+Query if an address is used to owner of this contract can be used by the owner to extract mistakenly sent tokens to this contract . 
+Transfers tokens held by timelock to beneficiary . 
+Called when token address is called by sends ether to owner 
+Receive ether from any EOA accounts . 
+Change rbInformationStoreAddress . 
+Change name . 
+Change symbol . 
+Mint new token amount . 
+Increase cap . 
+Decrease cap . 
+Rollback transfer . 
+This method will change old sponsee address with new one . 
+This method will change isPayableEnabled flag . 
+` freeze ? 
+This method can be used by the controller to extract mistakenly sent tokens to this contract . 
+Updates merkle leaf based on a loan 
+Changes the blacklist of tokens . 
+send ` _value ` token to ` _to ` from ` msg.sender ` 
+from ` _from ` will be sended ` _value ` tokens to ` _to ` 
+` freeze ? 
+This method is used by the WCT holders to collect their corresponding MSPs 
+This method can be used by the controller to extract mistakenly sent tokens to this contract . 
+Adds an account to the whitelist . 
+Adds multiple accounts to the whitelist . 
+Removes an account from the whitelist . 
+Removes multiple accounts from the whitelist . 
+Updates merkle decimals and changes the token implementation contract 
+Initializes a helper function to remove half of a darknode 
+Function that registers new SWT tokens and changes its bond to the end of the ICO 
+Returns the total number of tokens currently paused . 
+Sets a token implementation contract to clear the hardcap volume at a location 
+Create tokens when funding is active . 
+This is called before determining the token amount . 
+Executed when a purchase has been validated and is ready to be executed . 
+Checks if a new name is not yet able to change area 
+Gets merkle orders that is still active state for a website ) into any user . 
+Gets merkle decimals and returns the token 
+Updates merkle setup amount of tokens 
+Returns the number of tokens for wei 
+To make token minting in a byte32 type 
+Withdraw excess funds which have been charged later contract balance . 
+Checks if the crowdsale has closed . 
+Determines how ETH is stored/forwarded on purchases . 
+This feature implements MiniMeToken Controller 's OVERRIDE 
+Function that disable functions to upgrade 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+Buy tokens from contract by sending ether 
+Sell ` amount ` tokens to contract 
+returns always 1 because exchange rate of the token to itself is always 1 . 
+Function to allow tokens with PeriodicReleaseLock 
+This function sends ETH to be transferred 
+Checks if a product is unsuccessful , this contract is not those tokens 
+What is the general purpose . 
+used to launch the Module with the help of factory 
+Returns the instructions associated with the module 
+Get the tags related to the module factory 
+Set allowance for other address and notify 
+Release tokens corresponding of the contract 
+Updates merkle orders and returns the Sale function 
+Transfers tokens to a specified wallet address . 
+` msg.sender ` approves ` _spender ` to spend ` _value ` tokens 
+will be called on ` _spender ` address 
+Transfers tokens from one address to another 
+Upgrade tokens to the new token contract . 
+Set address of upgrade target contract and enable upgrade process . 
+` proxyPayment ( ) ` allows the caller to send ether to the Campaign and have the tokens created in an address of their choosing 
+Function to remove a proposal list of modules 
+Initializes a new treasury and receive 
+The price of the ICO 
+Gets length of locked tokens 
+Gets length of locked tokens 
+Gets the total value of investors 
+If Ether is not , for the borrower must call this function . 
+Updates merkle decimals and changes the token 
+Get the total amount of tokens to be called by the contract owner 
+Returns asset balance of a contract 
+Gets the total value of assets 
+Push refund for ` _addr ` from failed ICO 
+Gets the total value of investors 
+Returns asset balance of a contract 
+Claim refund on failed ICO 
+This method can be used by the controller to extract mistakenly sent tokens to this contract . 
+This method can be used by the controller to extract mistakenly sent tokens to this contract . 
+Transfer all Ether held by the contract to the owner . 
+Gets merkle orders that is not possible to see if required cap 
+Updates the state variables for this contract 
+Retrieves a description in wei . 
+Updates the boolean ( ) false 
+processes the contribution checks campaign state , time window and minimal contribution throws if one of the conditions fails 
+Gets a list of contracts that are associated with provided user 
+The fallback function 
+Returns the total number of tokens 
+Returns the total number of tokens . 
+Returns the total number of tokens tracked by this contract 
+Returns the total number of tokens tracked by this contract 
+Returns the total number of tokens being need to be called by the owner 
+Withdraws an amount of bonuses that means it 's ever . 
+Claim refund on failed ICO 
+Get packed price for a loan 
+Transfers tokens held by timelock to owner . 
+The main function to withdraw tokens 
+Get the loan to be paid for a token and exit array . 
+Any funds are paid to this contract 
+Update the total amount of tokens and begin the user 's address 
+Get packed price for a loan 
+Register a new ERC20 token 
+Internal function to clear current tokens and transfer 
+Allows the owner to update the ETH/USD rate is not . 
+Used to change the setup cost 
+Changes merkle card and returns the token implementation contract 
+Changes merkle orders and allows the Sale mechanism 
+Buy tokens from the auction pool by the challenge . 
+Signals that token holder approved spending of tokens and some action should be taken . 
+We use this function to unlock allocated tokens by burning 
+Change the address of the registryAdmin , who has the privilege to create new accounts 
+returns boolean indicating whether an account is not first payable 
+send ` _value ` token to ` _to ` from ` msg.sender ` 
+Submit merkle orders and returns the borrower 's values 
+Updates merkle decimals and changes the Sale wallet of a given asset 
+Submit merkle orders and returns the borrower must call this method 
+Updates merkle decimals and changes the Sale wallet of a given asset 
+Only callable by the whitelister . 
+Only callable by the whitelister . 
+Changes the current whitelister . 
+Transfers tokens held by timelock to beneficiary . 
+The Dev ( Owner ) will call this method to extract the tokens 
+This method can be used by the owner to extract mistakenly sent tokens to this contract . 
+Get the Dev ( Owner ) will call this method to collect 
+The ` escapeHatch ( ) ` should only be called as a last resort if a security issue is uncovered or something unexpected happened 
+Changes the address assigned to call ` escapeHatch ( ) ` 
+get balance get balance information 
+Transfer ` _value ` tokens to ` _to ` from ` msg.sender ` 
+Called anytime ether is sent to the contract & & creates an event to more easily track the incoming transactions 
+This method can be used by the controller to extract mistakenly sent tokens to this contract . 
+Function to receive payments 
+Withdraw ` amount ` to owner 
+Create a new request . 
+Update their rate without added to withdrawals . 
+Helps a wallet to remove trading for a contractor 
+Changes all min of the contract to distribute the team contract 
+Changes active state and changes the same data 
+Gets merkle orders and transfer 
+Cancel min contribution to consider he oracle 
+enables a wallet address to release a period 's terms and assigns them to the user 's account 
+This function that we want to stop sale has some sales 
+Submit a presigned purchase 
+Buy tokens from contract by sending ether 
+Returns all the relevant information about a specific collectible . 
+Function to make a proposal to change the Dao rules 
+Add an attribute type with ID ` ID ` and description ` description ` to the jurisdiction . 
+Add account ` validator ` as a validator with a description ` description ` who can be approved to set attributes of specific types . 
+Remove the validator at address ` validator ` from the jurisdiction . 
+Approve the validator at address ` validator ` to issue attributes of the type with ID ` attributeTypeID ` . 
+Issue an attribute of the type with ID ` attributeTypeID ` and a value of ` value ` to ` account ` if ` message.caller.address ( ) ` is approved validator . 
+Revoke the attribute of the type with ID ` attributeTypeID ` from ` account ` if ` message.caller.address ( ) ` is the issuing validator . 
+Check if an attribute of the type with ID ` attributeTypeID ` has been assigned to the account at ` account ` and is currently valid . 
+Retrieve the value of the attribute of the type with ID ` attributeTypeID ` on the account at ` account ` , assuming it is valid . 
+Get a description of the attribute type with ID ` attributeTypeID ` . 
+Get the signing key of the validator at account ` validator ` . 
+Get the ID of the attribute type at index ` index ` . 
+Initialize contract details 
+Destroy tokens from owener account , can be run only by owner Remove , can receive value from the system irreversibly 
+Destroy tokens from other account , can be run only by owner Remove ` _value ` tokens from the system irreversibly on behalf of ` _from ` . 
+Create a new tokens and send it to another address . 
+Freeze or unfreeze account , can be run only by owner 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+` freeze ? 
+Takes the order according to the token holder , pay for each asset 
+Internal function that checks to Takes the withdrawable address and a loan 
+Internal function that checks to prevent payment of those tokens 
+distribute tokens to ROLE_NEUMARK_ISSUER 
+One-way toggle to allow trading ( remove global freeze ) 
+Transfers ` amount ` from msg.sender to ` destination ` 
+Transfer tokens from an address to another one through an allowance made before 
+Approve ` amount ` tokens to ` to ` destination ` , and then an allowance for ` onApprovalReceived ` on spender Beware that changing an allowance with this method brings the auction that someone may use both the old and max cap 
+Permits to withdraw any ERC20 tokens that have been mistakingly sent to this contract 
+Function to claim ANY token stuck on contract accidentally In case of claim of stuck tokens please contact contract owners 
+Create ` mintedAmount ` tokens and send it to ` owner ` 
+Send ` msg.value ` WEI to the auction from the `` msg.sender '' account . 
+Gets the length of the token holders to pay for normal state . 
+Ends the auction , preventing new bids from entering 
+Ends the auction , preventing new bids from entering 
+Amount of investors purchase DO NOT OVERRIDE 
+Used to launch the Module with the help of factory 
+Returns the instructions associated with the module 
+Get the tags related to the module factory 
+Used to launch the contract , and enabled token minting 
+Used to burn tokens and decrease total supply 
+Used to create new tokens and increase total supply 
+contribution handler 
+check status 
+closure handler 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+Buy tokens from contract by sending ether 
+Transfer tokens to an address 
+Return the global status of the contract 
+One-way toggle to allow trading ( remove global freeze ) 
+Changes the Reality Check if an address is a contract 
+Updates merkle decimals and changes the token 
+Changes merkle decimals and changes the token 
+Total supply , including in reserve 
+Get the token balance for a specified address 
+Transfer tokens to account 
+Transfer tokens from one account to the other 
+Token owner can approve for spender to transferFrom ( ... ) tokens from the token owner 's account 
+Returns the amount of tokens approved by the owner that can be transferred to the spender 's account 
+Token owner can approve for spender to transferFrom ( ... ) tokens from the token owner 's account . 
+Function to receive payments 
+Burns ` _amount ` tokens from ` _owner ` 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific token . 
+Allow pre-approved user to take ownership of a token 
+Allow users to buy tokens for ` newBuyPrice ` eth and sell tokens for ` newSellPrice ` eth 
+Disable renounce ownership 
+Allow pre-approved user to take ownership of a token 
+Mint tokens 
+only the Sale and DisbursementHandler can disburse the initial tokens to their future owners 
+Check if the crowdsale is allowed to lock lock . 
+Returns all the relevant information about a specific emoji . 
+Gets the amount that Totle needs to give for this order 
+Perform exchange-specific checks on the given order 
+Perform a buy order at the exchange 
+Perform a sell order at the exchange 
+Gets the amount that TotlePrimary needs to give for this order 
+Perform exchange-specific checks on the given order 
+Perform a buy order at the exchange 
+Perform a sell order at the exchange 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Buy tokens from contract by sending ether 
+Sell ` amount ` tokens to contract 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+only the owner is service 
+Transfers tokens held by lock . 
+Gets the boolean ( true/false ) status of the user 's account to a given token 
+Freeze the details of the target 
+` freeze ? 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+Sell ` amount ` tokens to contract 
+Calculates the price being need to save the corresponding bonus . 
+Withdraw some tokens 
+gets called after every state transition . 
+Burn finish minting in crowdsale 
+Calculates how many tokens being sold by burning irreversibly 
+Transfers tokens held by timelock to beneficiary . 
+Submit a presigned transfer 
+Submit a presigned approval 
+Increase the amount of tokens that an owner allowed to a spender . 
+Decrease the amount of tokens that an owner allowed to a spender . 
+Transfer tokens from one address to another 
+The fallback function : If the contract 's controller has not been set to 0 , then the ` proxyPayment ` method is called which relays the ether and creates tokens as described in the token controller contract 
+The owner can withdraw ethers after the presale has completed , only if the minimum funding level has been reached 
+Allows ` _spender ` to spend no more than ` _value ` tokens 
+This function burns application during the funding . 
+Buy tokens from contract by sending ether 
+Receive ether from any EOA accounts . 
+whether to apply hard cap check logic via getMaximumFunds ( ) method 
+Distribute dividends to the Funds contract . 
+If all tokens is a contract . 
+If all tokens is a contract . 
+Changes the total number of tokens 
+Changes the total amount of tokens 
+Create ` mintedAmount ` tokens and send it to ` target ` 
+This method can be used by the owner to extract mistakenly sent tokens to this contract . 
+Buy tokens from contract by sending ether 
+allow tokens to winner 
+Public function to buy tokens and changes the contract 
+Returns all the relevant information about a specific animecard . 
+Returns all the relevant information about a specific team . 
+Query the available balance of an address ~ ERC-20 Standard 
+Returns the address currently assigned ownership of a given Pixel . 
+Transfers ownership of Approves another address to another address 
+Returns the total supply of tokens . 
+Enumerate valid NFTs 
+Enumerate NFTs assigned to an owner 
+Initiates the atomic swap . 
+Distirbutes a differen quantity of tokens to all the specified addresses . 
+Distributes a constant quantity of tokens to all the specified addresses . 
+Allow the dev to set it 's own token as accepted payment . 
+Public function that allows any user to deposit accepted tokens as collateral to become a masternode . 
+Public function that allows any user to withdraw deposited tokens and stop as masternode 
+Adds a new airdrop to the contract 
+Removes a new deed to the list of administrators . 
+Adds a new contracts to clear any SNX in the whitelist . 
+Removes a single set contracts from the contract and update limits 
+Get merkle buyout price for a token holders 
+Gets the token share of the parcel to specified address . 
+Gets merkle orders , track of the crowdsale network 
+Updates merkle orders , selfdestruct the contract 
+Changes merkle decimals and changes the token 
+Updates merkle orders to the destination address 
+Updates merkle decimals and changes the token back to the vault 
+Update a certain value to an owner 's signature 
+This method can be used by the owner to extract mistakenly sent tokens to this contract . 
+Send ` _value ` tokens to ` _to ` from ` msg.sender ` and trigger tokenFallback if sender is a contract . 
+Base of transfer functions 
+ERC223 transfer function . 
+ERC223 transferFrom function . 
+Access point for the oracle to update the prices of havvens / eth . 
+Exchange ETH to nUSD . 
+Exchange nUSD for Havvens 
+Withdraw the amount of tokens to owner 
+Grant another address the right to transfer token via takeOwnership ( ) and transferFrom ( ) . 
+Returns all the relevant information about a specific masterpiece . 
+Allow pre-approved user to take ownership of a token 
+Submit a presigned transfer 
+Hash ( keccak256 ) of the payload used by transferPreSigned 
+Recover signer address from a message by using his signature 
+distribute tokens to an address 
+First or second stage of atomic swap . 
+Changes the total number of tokens 
+Changes the total number of tokens 
+Changes the total number of tokens 
+Gets merkle proof based on a message 
+Creates a new channel between ` msg.sender ` and sets the protocol 
+Batch exection of regularTransfer ( ) function 
+Withdraw ether and delete the htlc swap . 
+Batch exection of regularTransfer ( ) function 
+The contribution for any exchange rate 
+Batch exection of regularTransfer ( ) function 
